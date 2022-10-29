@@ -30,7 +30,8 @@ class GrandChild:public Child{
 
 int main(){
  Child c; 
- //c.a=10; private & protected is not accessible in object
+ //c.a=10; private & protected is not accessib
+    le in object
  //c.b=5;
  c.c=25;
 }
