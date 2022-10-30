@@ -34,3 +34,4 @@ int main(){
  //c.b=5;
  //c.c=25; //As parent is protected so it cannot access protected members
 }
+
