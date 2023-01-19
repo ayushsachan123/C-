@@ -38,6 +38,7 @@ int main()
 // 10
 // 20
 // 30
+
 // This is using for each loop
 // 2
 // 4
