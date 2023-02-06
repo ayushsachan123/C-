@@ -20,6 +20,7 @@ Test():Test(1,1){//It will call parametarized constructor
 }
 };
 
+
 int main(){
 
     return 0;
