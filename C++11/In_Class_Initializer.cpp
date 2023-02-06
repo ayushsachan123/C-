@@ -11,6 +11,7 @@ Test(int a,int b){
     x=a;
     y=b;
 }
+ 
     
 Test():Test(1,1){//It will call parametarized constructor
                  //If you want to write the same logc in non-paramaterized
